@@ -1,0 +1,224 @@
+body 
+{
+background: rgba(0, 0, 0, 0.86);
+}
+
+cabecera 
+{
+background: rgba(253, 253, 63, 0.64);
+    
+overflow:hidden;
+position: relative;
+align-content: center;    
+}
+
+}
+cabecera .abc
+{
+float: inherit;
+margin: 0 1em 0 1em;    
+}
+cabecera .abc img 
+{
+width: 800px; 
+} 
+
+.tab
+{
+background: rgb(255, 93, 93);
+margin: 0;
+position: relative;
+box-shadow: rgb(198, 22, 22)    
+}
+
+.tab ol 
+{
+border-left: 1px solid white;
+list-style: none;   
+}
+
+.tab ol li{
+ display: inline-block;
+ font-size:30px;
+    padding: 1em     
+ }
+.tab ol #menu1 a
+{
+background: rgba(248, 7, 7);
+padding:0.5em;
+border-radius: 5px;
+text-decoration: none;
+font-size: 20px;
+box-shadow: rgba(56, 56, 56, 0.9)-2px 2px 15px;    
+text-shadow: rgba(0,0,0,0)-2px 2px 15px;     
+}
+
+.tab ol #menu2 a
+{
+background: rgba(248, 7, 7);
+padding:0.5em;
+border-radius: 5px;
+text-decoration: none;
+font-size: 20px;
+box-shadow: rgba(56, 56, 56, 0.9)-2px 2px 15px;    
+text-shadow: rgba(0,0,0,0)-2px 2px 15px;     
+}
+.tab ol #menu3 a
+{
+background: rgba(248, 7, 7);
+padding:0.5em;
+border-radius: 5px;
+text-decoration: none;
+font-size: 20px;
+box-shadow: rgba(56, 56, 56, 0.9)-2px 2px 15px;    
+text-shadow: rgba(0,0,0,0)-2px 2px 15px;     
+}
+.tab ol #menu4 a
+{
+background: rgba(248, 7, 7);
+padding:0.5em;
+border-radius: 5px;
+text-decoration: none;
+font-size: 20px;
+box-shadow: rgba(56, 56, 56, 0.9)-2px 2px 15px;    
+text-shadow: rgba(0,0,0,0)-2px 2px 15px;     
+}
+.tab ol #menu5 a
+{
+background: rgba(248, 7, 7);
+padding:0.5em;
+border-radius: 5px;
+text-decoration: none;
+font-size: 20px;
+box-shadow: rgba(56, 56, 56, 0.9)-2px 2px 15px;    
+text-shadow: rgba(0,0,0,0)-2px 2px 15px;     
+}
+
+#contenido .imagenes
+{
+float: left;
+position: relative;
+padding: 1px;
+background :rgba(119, 102, 102, 0)      
+top:0;     
+width:100%; 
+}
+
+#contenido .imagenes .imagen1 
+{
+margin: 2px;
+float: left;    
+}
+
+#contenido .imagenes .imagen1 img
+{
+width:300px; 
+}
+
+#contenido .imagenes .imagen2
+{
+margin: 2px;
+float: left;    
+}
+
+#contenido .imagenes .imagen2 img
+{
+width:300px;
+float: left;    
+}
+#contenido .imagenes .imagen3
+{
+margin: 2px;
+float: left;    
+}
+
+#contenido .imagenes .imagen3 img
+{
+width:300px; 
+}
+#contenido .imagenes .imagen4
+{
+margin: 2px;
+float: left;    
+}
+
+#contenido .imagenes .imagen4 img
+{
+width:300px; 
+}
+#contenido .imagenes .imagen5
+{
+margin: 2px;
+float: left;    
+}
+
+#contenido .imagenes .imagen5 img
+{
+width:300px; 
+}
+#contenido .imagenes .imagen6
+{
+margin: 2px;
+float: left;    
+}
+
+#contenido .imagenes .imagen6 img
+{
+width:300px; 
+}
+#contenido .imagenes .imagen7
+{
+margin: 2px; 
+float: left;    
+}
+
+#contenido .imagenes .imagen7 img
+{
+width:300px; 
+}
+#contenido .imagenes .imagen8
+{
+margin: 2px;
+float: left;    
+}
+
+#contenido .imagenes .imagen8 img
+{
+width:300px; 
+}
+#contenido .imagenes .imagen9
+{
+margin: 2px;
+float: left;    
+}
+
+#contenido .imagenes .imagen9 img
+{
+width:300px; 
+}
+#contenido .imagenes .imagen10
+{
+margin: 2px;
+float: left;    
+}
+
+#contenido .imagenes .imagen10 img
+{
+width:300px; 
+}
+
+}
+
+#contenido .imagenes .rued1
+{
+margin: 10px;
+float: 10px;    
+    
+}
+#contenido .imagenes .rued1 img 
+{
+width:300px; 
+
+}
+
+
